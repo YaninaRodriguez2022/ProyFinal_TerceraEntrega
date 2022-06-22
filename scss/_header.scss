@@ -1,0 +1,33 @@
+.navBarNew{
+    display: flex;
+    a{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #171717;
+        text-align: right;
+    }
+   
+}
+#logoContenedor {
+    background-color: #171717;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    padding: 0.5rem 1rem;
+    top: 0px;
+    left: 0px;
+   
+    div{
+        a{
+            color: #eeeeee;
+        }
+    }
+}
+#logoTamaño {
+    img{
+        width: 150px;
+        height: 82px;
+        ;
+    }
+}

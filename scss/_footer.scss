@@ -1,0 +1,36 @@
+.footer {
+    display: block;
+    flex-flow: row wrap;
+    padding: 30px 30px 20px 30px;
+    color: #eeeeee;
+    background-color: #1b1a17;
+    ol{
+        list-style: none;
+        padding-left: 0;
+        background-color: #1b1a17;
+
+    }
+}
+
+
+.socials {
+    text-align: center;
+    img{
+        margin-inline: 0.3rem;
+    }
+}
+
+
+#redesSociales {
+    text-align: left;
+    list-style-type: none;
+
+}
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+    ol{
+        margin-top: 1rem;
+        display: flex;
+    }
+}
